@@ -1,0 +1,1 @@
+Illustration of https://github.com/scoverage/sbt-scoverage/issues/200
